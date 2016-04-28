@@ -1,5 +1,6 @@
 # sdk_release_android
 - doc folder: includes documentation for the SDK related API.
+- examples folder:includes ChatDemoUI3.0 (3.0demo rely on eaesui library) and EaseUI
 - libs folder: includes the SDK and .so files which provide the read-time speech and video function.
 - libs.without.audio folder: contains the SDK which cannot provide the real-time speech and video function.
 
