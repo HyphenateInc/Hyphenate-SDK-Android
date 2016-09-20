@@ -11,7 +11,7 @@ Add the repositories url to your project-level `build.gradle`:
 Add the following code to your module-level `build.gradle`:
 
 	android {
-   		//use legacy for for android 6.0
+   		//use legacy for android 6.0
     	useLibrary 'org.apache.http.legacy'
 	}
 	dependencies {
