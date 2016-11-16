@@ -3,10 +3,11 @@
   <groupId>com.hyphenate</groupId>
   <artifactId>hyphenate-sdk-lite</artifactId>
   <versioning>
-    <release>3.1.5</release>
+    <release>3.2.1</release>
     <versions>
       <version>3.1.5</version>
+      <version>3.2.1</version>
     </versions>
-    <lastUpdated>20160923033537</lastUpdated>
+    <lastUpdated>20161116073950</lastUpdated>
   </versioning>
 </metadata>
