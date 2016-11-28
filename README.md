@@ -17,10 +17,10 @@ Add the following code to your module-level `build.gradle`:
 	dependencies {
     	compile fileTree(dir: 'libs', include: '*.jar')
    		compile 'com.google.android.gms:play-services-gcm:9.4.0'
-    	compile 'com.hyphenate:hyphenate-sdk:3.1.5'
+    	compile 'com.hyphenate:hyphenate-sdk:3.2.1'
 	}
 
-If you want use the sdk without voice/video calling, use `compile 'com.hyphenate:hyphenate-sdk-lite:3.1.5'`.
+If you want use the sdk without voice/video calling, use `compile 'com.hyphenate:hyphenate-sdk-lite:3.2.1'`.
 
 ## Demo source code
 Demo github link: [https://github.com/HyphenateInc/IMDemo_android](https://github.com/HyphenateInc/IMDemo_android "IMDemo")
